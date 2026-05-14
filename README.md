@@ -1,6 +1,6 @@
 
 # Hi there!
-I am Aiste. I am a Clinical Research Data and Program Coordinator at Cooper University Health Care. I completed my psychology PhD at the University of Zurich in the Motivation, Volition, and Emotion lab, in May 2025. My academic research primarily focuses on choice and evaluation in the context of long-term and hedonic goals. Beyond goal-pursuit research, I am broadly interested in health and well-being and decision making. I additionally have a background in large survey analysis, qualitative research (including long-form interviews with adults and children), and development of clinical outcome measures. I primarily use R and I like research methods, statistics, and data visualization.
+I am Aiste. I am a Clinical Research Data and Program Coordinator at the Cooper Neurological Institute. I completed my psychology PhD at the University of Zurich in the Motivation, Volition, and Emotion lab, in May 2025. My academic research primarily focuses on choice and evaluation in the context of long-term and hedonic goals. Beyond goal-pursuit research, I am broadly interested in health and well-being and decision making. I additionally have a background in large survey analysis, qualitative research (including long-form interviews with adults and children), and development of clinical outcome measures. I primarily use R and I like research methods, statistics, and data visualization.
 
 <p><a href="https://scholar.google.com/citations?user=BqeMwcAAAAAJ&hl=en" target="_blank">My Google Scholar</a></p>
 
